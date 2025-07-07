@@ -36,7 +36,7 @@ To explore, clean, and analyze a real dataset using core tools from the Python d
 
 ```bash
 📂 Data Analysis Project
-├── creditEDA.ipynb    # The main notebook
+├── credit EDA.ipynb    # The main notebook
 ├── .gitignore                      # File to ignore extra folders
 └── README.md                       # This file
 
